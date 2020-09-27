@@ -15,6 +15,8 @@
 
 **_In order to give the class more time to focus on React, the solution for this homework assignment was provided by our instructor during class. All code is this repo is from the provided solution._**
 
+---
+
 ## Table of Contents
 
 - [Description](#description)
